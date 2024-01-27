@@ -1,8 +1,9 @@
 <h1>Vision-AI</h1>
 Overview<br>
-Vision-AI is a project designed to promote independence and inclusivity for visually impaired individuals. The integration of the Llava model, cameras, and Raspberry Pi aims to revolutionize the way visually impaired individuals interact with computers. The project addresses the challenges faced by the visually impaired community, offering a technology-driven solution that enhances accessibility and well-being.
-![Copy of IISF (3)](https://github.com/Thejas775/Vision-AI-/assets/58774753/d38fb3cb-324f-41ee-9326-d65ad12f5d1c)
+Vision-AI is a project designed to promote independence and inclusivity for visually impaired individuals. The integration of the Llava model, cameras, and Raspberry Pi aims to revolutionize the way visually impaired individuals interact with computers. The project addresses the challenges faced by the visually impaired community, offering a technology-driven solution that enhances accessibility and well-being.<br>
+Features
 
+![abc](https://github.com/Thejas775/Vision-AI-/assets/58774753/fff47cb4-eac6-419c-82a4-55b286c992a1)
 
 Audio Interaction 🔊 : The project utilizes speech recognition and text-to-speech technologies to enable audio interaction with the system.
 
