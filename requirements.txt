@@ -1,0 +1,4 @@
+firebase-admin
+gtts
+replicate
+speechrecognition
